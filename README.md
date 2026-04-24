@@ -1,7 +1,9 @@
 # Dashboard-Challenge
 Technical Customer Success Recreation Dashboard for Junionr Analyst role
 
-*Data Generation Approach*
+#Data Generation Approach#
+
+
   The data used in this dashboard was synthetically generated to replicate realistic marketing performance metrics for a cross-channel campaign analysis.
 For the time series data, monthly impressions were manually defined for each channel (Programmatic, Paid Search, Paid Social, and Organic) to reflect common seasonal patterns observed in digital marketing — for example, Programmatic peaking mid-year and Paid Search performing stronger at the start and end of the year.
 
