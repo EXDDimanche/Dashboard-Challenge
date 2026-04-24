@@ -1,7 +1,7 @@
 # Dashboard-Challenge
 Technical Customer Success Recreation Dashboard for Junionr Analyst role
 
-#Data Generation Approach
+# Data Generation Approach
 
 
   The data used in this dashboard was synthetically generated to replicate realistic marketing performance metrics for a cross-channel campaign analysis.
